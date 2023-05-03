@@ -1,0 +1,25 @@
+h1{
+    color: crimson;
+    font-family: Elephant;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+b{
+    font-size: 15px;
+}
+
+p{
+    font-size: 20px;
+    color: darkblue;
+}
+
+button{
+   background-color: rgb(96, 136, 31);
+   color: white;
+   border: none;
+   padding: 15px 32px;
+   font-size: 16px;
+}
